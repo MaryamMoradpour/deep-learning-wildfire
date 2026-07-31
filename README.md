@@ -131,9 +131,9 @@ Example outputs include
 
 This repository accompanies the research paper:
 
-> Deep Learning for Wildfire Ground Heat Flux Prediction using WRF-SFIRE Simulations
-
-(Include DOI or citation here when available.)
+> Convolutional neural networks for wildfire spread and intensity prediction
+> 
+[(Include DOI or citation here when available.)](https://doi.org/10.1016/j.acags.2026.100355)
 
 ---
 
