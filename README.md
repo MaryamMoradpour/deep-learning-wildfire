@@ -192,4 +192,4 @@ Karlsruhe Institute of Technology (KIT)
 
 GitHub: https://github.com/MaryamMoradpour
 
-LinkedIn: *(add your LinkedIn URL here)*
+LinkedIn: https://www.linkedin.com/in/maryammoradpour/
